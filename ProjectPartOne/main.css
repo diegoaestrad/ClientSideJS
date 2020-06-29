@@ -1,0 +1,18 @@
+body {
+   /*background-color: grey;*/
+    background: linear-gradient(90deg, rgb(15, 4, 240) 0%, rgb(59, 59, 221) 35%, rgba(0,212,255,1) 100%);
+}
+
+ul {
+    width: auto;
+}
+
+li.Checked {
+    text-decoration: line-through;
+}
+
+h5 {
+    color: indigo;
+    text-align: center;
+    font-weight: bold;
+  }
